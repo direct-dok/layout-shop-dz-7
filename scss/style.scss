@@ -1,7 +1,9 @@
+
+@import './general';
 @import './variables';
 @import './mixins';
 @import './reset';
-@import './general';
+
 // Strart import blocks desctop
 @import './blocks/header';
 @import './blocks/navigation';
